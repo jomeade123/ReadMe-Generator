@@ -2,8 +2,9 @@
 // const inquirer = import('inquirer');
 
 import inquirer from 'inquirer';
-const fs = import('fs');
-const generateMarkdown = import('./utils/generateMarkdown.js');
+import generateMarkdown from './utils/generateMarkdown.js';
+import fs from 'fs';
+
 
 // TODO: Create an array of questions for user input
 const promptUser = () => {

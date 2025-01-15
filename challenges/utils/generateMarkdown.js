@@ -86,18 +86,6 @@ You can find more of my work at [${data.github}](https://github.com/${data.githu
 }
 
 
-// Prompt user for input and generate README
-// Define the generateMarkdown function
-function generateMarkdown(data) {
-  // Your logic to generate markdown from data
-  return `# ${data.title}
-
-## Description
-${data.description}
-
-// ... more markdown content
-`;
-}
 
 // Export the generateMarkdown function
 module.exports = generateMarkdown;
