@@ -1,9 +1,9 @@
 
-  # gg
+  # ReadMe generator
 
 
 ## Description
-gg
+The project is to present that the readme generator actually works 
 
 ## Table of Contents
 - [Installation](#installation)
@@ -14,10 +14,10 @@ gg
 - [Questions](#questions)
 
 ## Installation
-gg
+Java script, Node.js, Git Hub, etc.
 
 ## Usage
-gg
+all of the above
 
 ## License
 ## License [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]((https://opensource.org/licenses/MIT));
@@ -25,12 +25,12 @@ gg
 
 
 ## Contributing
-gg
+
 
 ## Tests
-gg
+NPM start or node index.js
 
 ## Questions
-For any questions, please contact me at [g](mailto:g).
-You can find more of my work at [gg](https://github.com/gg)
+For any questions, please contact me at [Jordanmeade451@gmail.com](mailto:Jordanmeade451@gmail.com).
+You can find more of my work at [jomeade123](https://github.com/jomeade123)
   
